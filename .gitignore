@@ -1,0 +1,6 @@
+/api/dist/
+/api/node_modules/
+/node_modules/
+/layers/nodejs/node_modules/
+/.idea/
+/cdk.out/
